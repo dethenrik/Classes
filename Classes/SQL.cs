@@ -8,7 +8,7 @@ namespace Classes
 {
     internal class SQL
     {
-        const string connectionString = "her ville vores connection til databasen ";
+        const string connectionString = "her ville vores connection til databasen i SQL ";
         internal static string Read(string select)
         {
             return "vi faker!";
